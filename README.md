@@ -28,6 +28,3 @@ Patients often receive care from multiple hospitals, but their health records re
 struct MedicalRecordAccess has store, key {
     has_granted_access: bool,
 }
-
-Compile the Code 
-Aptos move compile
