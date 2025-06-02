@@ -29,4 +29,6 @@ struct MedicalRecordAccess has store, key {
     has_granted_access: bool,
 }
 
+
 ![image](https://github.com/user-attachments/assets/5d80c630-ca9e-4ff8-9935-204d76e1aed7)
+##Transaction id=0x4ce3756b2bee483ee91d8ea64ec50f204e94b0234acbe83dd2141693bfaacf0b
